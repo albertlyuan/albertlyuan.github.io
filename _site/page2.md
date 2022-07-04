@@ -1,5 +1,5 @@
 layout: page
-title: "Albert Yuan"
+title: "page2"
 permalink: /page2/
 
 <html lang="en">
