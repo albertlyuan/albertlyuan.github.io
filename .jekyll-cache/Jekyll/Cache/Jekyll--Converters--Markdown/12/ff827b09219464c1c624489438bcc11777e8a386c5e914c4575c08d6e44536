@@ -1,12 +1,7 @@
----
-layout: page
-title: "title"
-permalink: /page2/
----
-<html lang="en">
+I"X<html lang="en">
     <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width-device-width, initial-scal=1.0">
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width-device-width, initial-scal=1.0" />
         <Title>head</Title>
     </head>
     <body>
@@ -20,3 +15,4 @@ permalink: /page2/
     </body>
 
 </html>
+:ET
