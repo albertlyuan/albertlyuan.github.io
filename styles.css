@@ -68,8 +68,8 @@
     cursor: pointer;
     border: none;
   }
-  #resume {
-    padding: 1rem 3rem;
+  .resume {
+    height: 50px;
     font-size: 1rem;
     color: #FFF;
     cursor: pointer;
