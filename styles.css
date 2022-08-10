@@ -69,8 +69,7 @@
     font-size: 1rem;
     color: #FFF;
     cursor: pointer;
-    display: table-cell;
-    vertical-align: middle;
+    background-color: transparent;
     border: white;
   }
   
